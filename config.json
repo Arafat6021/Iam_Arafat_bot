@@ -12,16 +12,16 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "Vixa",
+	"nickNameBot": "𝐘𝐨𝐮 𝐫 𝐜𝐡𝐨𝐜𝐨𝐥𝐚𝐭𝐞 🍫",
 	"prefix": "/",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": ["100034630383353", "100045644423035"],
+	"adminBot": ["100051997177668", "100059323324036"],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": ["100034630383353"],
+		"whiteListIds": ["100051997177668"],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
